@@ -123,10 +123,6 @@
   <a href="https://ngrok.com/">
     <img src="https://simpleskill.icons.workers.dev/svg?i=ngrok&theme=light"/>
   </a>
-
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase"/>
-  </a>
 </p>
 
 
@@ -180,9 +176,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="50" height="50" />
   </a>
 
+ <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase"/>
+  </a>
+
   <a href="https://tableplus.com/">
     <img src="https://tableplus.com/resources/favicons/apple-icon-60x60.png" width="50" height="50" />
   </a>
+  
 </p>
 
 

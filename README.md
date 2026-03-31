@@ -1,12 +1,12 @@
 <hr> </hr>
 
 
-<p align="right" id="readme-top" ><img src="https://rb.gy/6hj1ce" alt="krischan33" /></p>
+<p align="right" id="readme-top" ><img src="https://rb.gy/6hj1ce" alt="Kristianity-PH" /></p>
 
 # Hi 👋, I'm Kristian Jay Tadeo
 
     
-![logo](https://github.com/KrisChan33/KrisChan33/blob/main/githubimage.png)
+![logo](https://github.com/Kristianity-PH/Kristianity-PH/blob/main/githubimage.png)
 <h3 align="">A passionate Full Stack Developer in the Philippines</h3>          
 <img align="right" alt="coding" width="350" src="https://rb.gy/mbprke">
 
@@ -43,7 +43,7 @@
     <td style="padding-left: 1050 px;">
      </br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="https://shorturl.at/UCkHZ">
-       <img src="https://github.com/KrisChan33/KrisChan33/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
+       <img src="https://github.com/Kristianity-PH/Kristianity-PH/blob/main/qrcode_kristianjaytadeo.png" alt="ScanQR" width="100px" height="100px" style="border-radius: 10%;"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Developer Card 
     </td>
@@ -252,16 +252,18 @@
 -->
 ## Account Details
 
+<!--
 <summary>&#9889GitHub Statistics</summary><br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrisChan33&theme=algolia&hide_border=true" height="290px"/></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=algolia&hide_border=true" height="290px"/></br>
+   -->
    
   <!--
   Not working!
   
-  <img src="https://github-readme-stats.vercel.app/api?username=KrisChan33&show_icons=true&rank_icon=github&show=prs_merged_percentage&hide=total_issues&theme=default&hide_border=true&icon" height="170px" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisChan33&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" height="170px"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&rank_icon=github&show=prs_merged_percentage&hide=total_issues&theme=default&hide_border=true&icon" height="170px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" height="170px"/> -->
 </div>
 
 
@@ -270,11 +272,11 @@
 <!-- <summary>&#127942  Trophies</summary><br/>
 <div align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=krisChan33&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div> -->
  
 <!-- other design of trophy
-![](https://github-profile-tropy.vercel.app/?username=KrisChan33&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
+![](https://github-profile-tropy.vercel.app/?username=username&theme=flat&no-frame=false&no-bg=false&margin-w=4)-->
 
 
 

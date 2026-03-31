@@ -9,7 +9,7 @@
 ![logo](https://github.com/Kristianity-PH/Kristianity-PH/blob/main/githubimage.png)
 <h3 align="">A passionate Full Stack Developer in the Philippines</h3>  
 
-<img align="right" alt="coding" width="350" src="https://rb.gy/mbprke">
+<img align="right" alt="coding" position="relative" width="350" src="https://rb.gy/mbprke">
 
 
 [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+Filipino%2C+Full+Stack+Developer;and+Open-Source+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)

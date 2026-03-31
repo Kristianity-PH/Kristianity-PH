@@ -23,6 +23,7 @@
 
 - ⚡ Fun fact **I Love Coding 👨‍💻**
 
+<br>
 
 ## 📠 Connect with me
 <p style="padding-left: 150px;">
